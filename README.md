@@ -42,6 +42,9 @@ La plupart des situations peuvent être résolues en moins de 10 mouvements, mai
 
 
 Auteur : Alex Randolph
+
 Graphisme : Franz Vohwinkel
+
 © 1999 Hans im Glück Verlags-GmbH
+
 Traduction française : François Haffner - haffner@free.fr - http://jeuxsoc.free.fr
